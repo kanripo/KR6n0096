@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘百法明門論
+#+DATE: 2015-08-30 20:58:17.754850
+#+PROPERTY: JUAN 0
