@@ -1,21 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:17.562298
+#+DATE: 2015-08-30 20:58:18.769909
 #+TITLE: 大乘百法明門論
 #+PROPERTY: CBETA_ID T31n1614
 #+PROPERTY: ID KR6n0096
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1614
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0096_T_000-0855b>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0096_T_001-0855b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1614¶
-
- 大乘百法明門論本事分中略錄¶
-名數¶
+No. 1614¶
+大乘百法明門論本事分中略錄名數¶
 ¶
 天親菩薩造¶
 大唐三藏法師玄奘譯¶
@@ -24,8 +22,7 @@ No.1614¶
 無我。一切法者。略有五種。一者心法。二者心¶
 所有法。三者色法。四者心不相應行法。五者¶
 無為法。一切最勝故。與此相應故。二所現¶
-影故。三分位差別故。四所顯示故。如是次¶
-第。第一心法略有八種。一眼識。二耳識。三鼻¶
+影故。三分位差別故。四所顯示故。如是次第。第一心法略有八種。一眼識。二耳識。三鼻¶
 識。四舌識。五身識。六意識。七末那識。八阿¶
 賴耶識。¶
 
